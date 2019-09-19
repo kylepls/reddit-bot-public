@@ -1,0 +1,14 @@
+description(thread, songs, tags) ::= <<
+>>
+
+formatTitle(thread) ::= <<
+>>
+
+formatSong(meta) ::= <<
+>>
+
+formatTag(tag) ::= ""
+
+comment(title) ::= <<
+
+>>

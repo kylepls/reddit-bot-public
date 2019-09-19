@@ -1,0 +1,8 @@
+!**/src/main/**
+!**/src/test/**
+.idea
+target
+*.iml
+temp
+hs_err_pid*
+ffmpeg.log
